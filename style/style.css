@@ -1,0 +1,13 @@
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: whitesmoke;
+    padding-top: 50px;
+    background-color: rgb(134, 165, 143);
+}
+
+footer a{
+    text-decoration: underline;
+    color: black;
+}
